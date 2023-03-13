@@ -12,8 +12,7 @@
 <h4 align="left">FrontEnd: React | Redux | Bootstrap | CSS</h4>
 <h4 align="left">BackEnd: Node | Express | JavaScript</h4>
 <h4 align="left">Database: PostgreSQL | Sequelize</h4>
-<h4 align="left">📫Como contactarme:
-<a href="lara.vic.moyano@gmail.com">Correo electronico</a>
+<h4 align="left">📫Como contactarme: lara.vic.moyano@gmail.com</h4>
   
 <hr>
   
