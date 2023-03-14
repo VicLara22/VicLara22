@@ -8,11 +8,11 @@
   <img ancho = "25%" align="right" alt="PIC" height="200px" src='https://img.freepik.com/vector-premium/programadora-femenina-mujer-escribiendo-codigo-administrador-contenido-chica-joven-que-trabaja-ilustracion-vector-computadora-portatil-programador-software-mujer-lenguaje-informatico-escrito-autonomo_80590-11194.jpg' />
 </div>
        
-<h4 align="left">⭐Lenguajes y Herramientas:</h4>
-<h4 align="left">FrontEnd: React | Redux | Bootstrap | CSS</h4>
-<h4 align="left">BackEnd: Node | Express | JavaScript</h4>
-<h4 align="left">Database: PostgreSQL | Sequelize</h4>
-<h4 align="left">📫Como contactarme: lara.vic.moyano@gmail.com</h4>
+⭐Lenguajes y Herramientas:
+FrontEnd: React | Redux | Bootstrap | CSS
+BackEnd: Node | Express | JavaScript
+Database: PostgreSQL | Sequelize
+📫Como contactarme: lara.vic.moyano@gmail.com
   
 <hr>
   
