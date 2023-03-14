@@ -9,9 +9,13 @@
 </div>
        
 ⭐Lenguajes y Herramientas:
+
 FrontEnd: React | Redux | Bootstrap | CSS
+
 BackEnd: Node | Express | JavaScript
+
 Database: PostgreSQL | Sequelize
+
 📫Como contactarme: lara.vic.moyano@gmail.com
   
 <hr>
