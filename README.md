@@ -10,11 +10,13 @@
        
 ⭐Lenguajes y Herramientas:
 
-FrontEnd: React | Redux | Bootstrap | CSS
+Frontend: React | Redux | Bootstrap | CSS | HTML | JavaScript.
 
-BackEnd: Node | Express | JavaScript
+Backend: Node | Express 
 
 Database: PostgreSQL | Sequelize
+
+Otros: Git | GitHub | Slack | Trello
 
 📫Como contactarme: lara.vic.moyano@gmail.com
   
