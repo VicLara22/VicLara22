@@ -10,11 +10,13 @@
        
 ⭐Lenguajes y Herramientas:
 
-Frontend: React | Redux | Bootstrap | CSS | HTML | JavaScript.
+Lenjuage:  JavaScript | TypeScript
 
-Backend: Node | Express 
+Frontend: React | Redux | Bootstrap | CSS | HTML | Angular | React-Boostrap
 
-Database: PostgreSQL | Sequelize
+Backend: Node | Express | Nest
+
+Database: PostgreSQL | SQLite
 
 Otros: Git | GitHub | Slack | Trello
 
