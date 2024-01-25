@@ -12,7 +12,7 @@
 
 Lenjuage:  JavaScript | TypeScript
 
-Frontend: React | Redux | Bootstrap | CSS | HTML | Angular | React-Boostrap
+Frontend: React | Redux | Bootstrap | CSS | HTML | Angular | React-Boostrap | Vite | Vue
 
 Backend: Node | Express | Nest
 
